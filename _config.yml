@@ -2,7 +2,7 @@ title: Title
 email: your-email@example.com
 description: by Authors
 
-baseurl: /HUDDLESTON-KATIA-HIST-WOH3931
+baseurl: "/HUDDLESTON-KATIA-HIST-WOH3931"
 
 twitter_username: jekyllrb
 github_username:  jekyll
